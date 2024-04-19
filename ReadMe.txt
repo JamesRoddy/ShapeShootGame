@@ -10,4 +10,4 @@ There is also a score system meaning the more shapes you shoot the more your sco
 So, dodge shapes, shoot shapes and watch the explosion of particles fly.
 
 Notes:
-In order to run the prorgam you will need to open the folder in vscode and use the live server extension(once in installed click liver server in the bottom right and select the html file)
+In order to run the program you will need to open the folder in vscode and use the live server extension(once in installed click liver server in the bottom right and select the html file)
