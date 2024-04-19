@@ -8,3 +8,6 @@ Your health bar is displayed in the top centre of the screen and once your healt
 There is also a score system meaning the more shapes you shoot the more your score will increase(as displayed in the top left corner).
 
 So, dodge shapes, shoot shapes and watch the explosion of particles fly.
+
+Notes:
+In order to run the prorgam you will need to open the folder in vscode and use the live server extension(once in installed click liver server in the bottom right and select the html file)
